@@ -1,0 +1,60 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #333;
+    display: block;
+}
+.App-footer{
+  background-color: #dcd9d8;
+  min-height: 55vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+#bigText{
+  text-align: center;
+  padding-top: 40px;
+}
+#smallText{
+  text-align: center;
+  font-size: 15px;
+  margin-left: 550px; 
+  margin-right: 550px;
+  margin-top: 25px;
+}
+#smallText_card{
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+}
+.App-footer1{
+  background-color: white;
+  min-height: 120vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 250px;
+  margin-top: 100px;
+  font-size: calc(10px + 2vmin);
+  color: black;
+
+}
+
+.card {
+	margin-top: 40px;
+	margin-left: 80px;
+    width: 60%;
+    height: 100%;
+    background-color: #dcd9d8;
+    border: none;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: white;
+}
