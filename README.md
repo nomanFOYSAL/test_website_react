@@ -2,6 +2,6 @@
 
 2.Clone source code from master branch to app folder
 
-3.run command : $npm install
+3.Run command : $npm install
 
-4.run app : npm start
+4.Run app : npm start
