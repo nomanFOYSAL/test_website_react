@@ -1,4 +1,4 @@
-Test Website using react
+Test Webpage using react
 
 1.Create react application into local machines folder($create-react-app appName)
 
@@ -8,4 +8,4 @@ Test Website using react
 
 4.Run app : npm start
 
-Website is static.Best viewed on 1920X1080 ratio.
+Webpage is static.Best viewed on 1920X1080 ratio.
